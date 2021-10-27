@@ -1,8 +1,7 @@
 ---
 layout: post
-title: Hello world!
+title: DH Intro first blog post
 ---
 
-This is your first blog post--make it your own!
-
-Hi! This is my first blog post 
+This is a blog post about nothing 
+ 
