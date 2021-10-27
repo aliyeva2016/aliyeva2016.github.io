@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://bauman.zapto.org/~syd/temp/WWP/letter.rnc" type="application/relax-ng-compact-syntax"?>
+<letter xmlns="aliyeva2016.github.io/ns/1.0">
+    <date normalized="2020-02-15">February the 15th</date>
+    <salutation>Dear <name of_a="human">Harry</name></salutation>
+    <paragraph>So good to hear from you again, old chap. I love the calendar, especially the months March to July. By <name of_a="deity">Jupiter's</name>Beard they are beautiful! </paragraph>
+    <signature>Appreciatively, <name of_a="human"> Larry.</name></signature>
+   
+</letter>
